@@ -3,7 +3,8 @@
 In this project we investigated the data sets provided to us of the 2017 & 2018 SAT and ACT scores. After cleaning and manipulation of our data we were able to create meaning full graphics to highlight different metrics. 
 ### What was found
 
-During this project I was able to conclude that there was no coolation between scores on the SAT and ACT due to several factors. 
+During this project I was able to conclude that there was no coolation between scores on the SAT and ACT due to several factors. check check
+
 
 By showing the Scatter plots of the two tests we could clearly see that the data had no correlation. 
 
